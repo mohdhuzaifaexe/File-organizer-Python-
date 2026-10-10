@@ -19,4 +19,4 @@ Downloads/
 ├── Documents/
 ├── Others/
 
-## 📂 Author: Mohd Huzaifa 
+## 📂 Author: Mohd Huzaifa
